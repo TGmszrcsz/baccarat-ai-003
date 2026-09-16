@@ -6,6 +6,12 @@
 
 整理日期：2026-09-17　｜　专题方向：数据范围
 
+<!-- article-chain:start -->
+
+> 系列导航：[全部文章目录](https://github.com/TGmszrcsz/baccarat-ai-index) ｜ [上一篇：第 002 篇 - 百家乐Ai预测分析工具：局号为何比页面顺序更重要](https://github.com/TGmszrcsz/baccarat-ai-002) ｜ [下一篇：第 004 篇 - 百家乐Ai预测分析工具：用时间窗口解释同一房间的统计差异](https://github.com/TGmszrcsz/baccarat-ai-004)
+
+<!-- article-chain:end -->
+
 连续两张截图的时间相近，中间却可能已经换靴。本篇围绕“划清牌靴边界再解释历史走势”展开，结合现有界面示例，说明判断依据、核对顺序和需要保留的记录。
 
 ## 一、本篇解决的阅读问题
